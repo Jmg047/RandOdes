@@ -2,7 +2,7 @@
 
 This project displays a quote with
 the author's name displayed sourced 
-from Quotes Api by Andre Jacinto 
+from Quotes-Api by Andre Neagoie & Jacinto Wong
 on GitHub. 
 
 The stack used is HTML, CSS, and JS. 
