@@ -1,11 +1,8 @@
 # QuoteGenerator
 
 This project displays a quote with
-the author's name displayed sourced 
-from Quotes-Api by Andre Neagoie & Jacinto Wong
-on GitHub. 
-
-The stack used is HTML, CSS, and JS. 
+the author's name sourced 
+from Quotes-Api by Jacinto Wong.
 
 The background is from Hero Pattern's 
 Website.
@@ -21,7 +18,7 @@ Website.
 ← `script.js`
 
 The quotes and their respective authors are fetched 
-in the .JS file from Quotes API. There is a 
+in script.js from Quotes-API. There is a 
 Loader to let the user know there is activity
 in the back-end going on while JS fetches each
 quote and author. The user can click the 
