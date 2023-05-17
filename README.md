@@ -9,14 +9,6 @@ Website.
 
 ## What's in this project?
 
-← `README.md`
-
-← `index.html`
-
-← `style.css`
-
-← `script.js`
-
 The quotes and their respective authors are fetched 
 in script.js from Quotes-API. There is a 
 Loader to let the user know there is activity
