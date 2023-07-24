@@ -2,7 +2,7 @@
 
 This project displays a quote with
 the author's name sourced 
-from Quotes-Api by Jacinto Wong.
+from Quotes-Api by @Jacintodesign on GitHub.
 
 The background is from Hero Pattern's 
 Website.
