@@ -1,4 +1,4 @@
-# QuoteGenerator
+# RandOdes quote generator
 
 This project displays a quote with
 the author's name sourced 
